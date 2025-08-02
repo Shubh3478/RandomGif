@@ -1,6 +1,6 @@
 import axios from "axios";
 import React, { useEffect, useImperativeHandle, useState } from "react";
-import Spinner from "./spinner";
+import Spinner from "./Spinner";
 
 
 const API_KEY = import.meta.env.VITE_API_KEY;
